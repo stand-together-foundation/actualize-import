@@ -126,31 +126,31 @@ The `drive_download()` function can now use the metadata objects to download the
 ```{r message=FALSE, warning=FALSE}
 drive_download(
   dbg1,
-  path = "~/actualize-import/data/dbg.xlsx", 
-  overwrite = TRUE
+  path = "~/actualize-import/data/dbg1.xlsx", 
+  overwrite = TRUE, 
 )
 
 drive_download(
   family_promise1,
-  path = "~/actualize-import/data/dbg.xlsx", 
+  path = "~/actualize-import/data/family_promise1.xlsx", 
   overwrite = TRUE
 )
 
 drive_download(
   yonique1,
-  path = "~/actualize-import/data/yonique.xlsx", 
+  path = "~/actualize-import/data/yonique1.xlsx", 
   overwrite = TRUE
 )
 
 drive_download(
   lclc1,
-  path = "~/actualize-import/data/lclc.xlsx", 
+  path = "~/actualize-import/data/lclc1.xlsx", 
   overwrite = TRUE
 )
 
 drive_download(
   dfree1,
-  path = "~/actualize-import/data/dfree.xlsx", 
+  path = "~/actualize-import/data/dfree1.xlsx", 
   overwrite = TRUE
 )
 
