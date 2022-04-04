@@ -1,8 +1,12 @@
 ---
-title: "Data Imports for STF Measurement"
+title: "Data Imports for Project Actualize"
 output: 
   rmarkdown::html_vignette: 
     keep_md: yes
+vignette: >
+  %\VignetteIndexEntry{Data Imports for Project Actualize}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
 ---
 
 ```{r setup, include=FALSE}
