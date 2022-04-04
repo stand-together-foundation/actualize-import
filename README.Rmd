@@ -1,7 +1,7 @@
 ---
 title: "Data Imports for STF Measurement"
 output: 
-  html_document: 
+  rmarkdown::html_vignette: 
     keep_md: yes
 ---
 
