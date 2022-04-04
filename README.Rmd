@@ -119,7 +119,7 @@ national2<- drive_get(
 
 The `drive_download()` function can now use the metadata objects to download the raw data locally for further analysis. The code below will download data into a `data` directory within the `actualize-import` repo. The data directory is also referenced within the `.gitignore` file so that data can be utilized locally, but not pushed to git/GitHub when attempting to merge back into the main branch, or collaborate with a colleague. 
 
-```{r}
+```{r message=FALSE, warning=FALSE}
 drive_download(
   dbg1,
   path = "~/actualize-import/data/dbg.xlsx", 

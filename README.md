@@ -121,194 +121,48 @@ drive_download(
   path = "~/actualize-import/data/dbg.xlsx", 
   overwrite = TRUE
 )
-```
 
-```
-## File downloaded:
-```
-
-```
-## • '60 Decibels_DBG Stand Together Anonymized Raw Data _ June 2021.xlsx'
-##   <id: 19oxN7LZwGbuf0D1UacPt0aRs46cGLf61>
-```
-
-```
-## Saved locally as:
-```
-
-```
-## • '~/actualize-import/data/dbg.xlsx'
-```
-
-```r
 drive_download(
   family_promise1,
   path = "~/actualize-import/data/dbg.xlsx", 
   overwrite = TRUE
 )
-```
 
-```
-## File downloaded:
-```
-
-```
-## • 'Family Promise Stand Together _anonymized data_June 2021.xlsx'
-##   <id: 1AS4En76EtwYh1avk4_JDBKo6rDpioMqc>
-```
-
-```
-## Saved locally as:
-```
-
-```
-## • '~/actualize-import/data/dbg.xlsx'
-```
-
-```r
 drive_download(
   yonique1,
   path = "~/actualize-import/data/yonique.xlsx", 
   overwrite = TRUE
 )
-```
 
-```
-## File downloaded:
-```
-
-```
-## • '60 Decibels_ Stand Together _ The Younique Foundation _Raw Data Anonymized.xlsx'
-##   <id: 1gIr5aATYnO18l5i98Uiwzk7HRMVSkh2h>
-```
-
-```
-## Saved locally as:
-```
-
-```
-## • '~/actualize-import/data/yonique.xlsx'
-```
-
-```r
 drive_download(
   lclc1,
   path = "~/actualize-import/data/lclc.xlsx", 
   overwrite = TRUE
 )
-```
 
-```
-## File downloaded:
-```
-
-```
-## • '60 Decibels_LCLC Stand Together Anonymized Raw Data_July 2021.xlsx'
-##   <id: 1-BMHYQG2daRCNBpM_lwOTREyGkedMxmt>
-```
-
-```
-## Saved locally as:
-```
-
-```
-## • '~/actualize-import/data/lclc.xlsx'
-```
-
-```r
 drive_download(
   dfree1,
   path = "~/actualize-import/data/dfree.xlsx", 
   overwrite = TRUE
 )
-```
 
-```
-## File downloaded:
-```
-
-```
-## • 'dfree results export.xlsx' <id: 1OWDgzBR1jg71c1qutd81q_SXMz06gn69>
-```
-
-```
-## Saved locally as:
-```
-
-```
-## • '~/actualize-import/data/dfree.xlsx'
-```
-
-```r
 drive_download(
   national1,
   path = "~/actualize-import/data/national1.csv", 
   overwrite = TRUE
 )
-```
 
-```
-## File downloaded:
-```
-
-```
-## • 'Amplify Raw.xlsx' <id: 1Uw6E7Vfni_jVj4OTZQc8p5q39rGa683H>
-```
-
-```
-## Saved locally as:
-```
-
-```
-## • '~/actualize-import/data/national1.csv'
-```
-
-```r
 drive_download(
     local1,
     path = "~/actualize-import/data/local1.csv",
     overwrite = TRUE
 )
-```
 
-```
-## File downloaded:
-```
-
-```
-## • 'i360_local_data.csv' <id: 1_fBh1ZHPuGTBMFWCK_QOHYuWzZ2U9l0m>
-```
-
-```
-## Saved locally as:
-```
-
-```
-## • '~/actualize-import/data/local1.csv'
-```
-
-```r
 drive_download(
     national2,
     path = "~/actualize-import/data/national2.sav", 
     overwrite = TRUE
 )
-```
-
-```
-## File downloaded:
-```
-
-```
-## • 'STOG0013_OUTPUT.sav' <id: 1MOJC_q6c2rzUe3g6mHb_rJMzivQJ5qyM>
-```
-
-```
-## Saved locally as:
-```
-
-```
-## • '~/actualize-import/data/national2.sav'
 ```
 
 
